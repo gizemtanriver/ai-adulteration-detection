@@ -10,7 +10,7 @@ This repository contains code to replicate results from the 2020 paper "Artifici
 
 
 ### Steps for training and testing
-1- recordings folder: raw recordings without any processing
+1- recordings folder: https://drive.google.com/drive/folders/1-K85jm_t8OvNK-xu_w55tG0GnXf0Gy8y?usp=sharing
 
 2- use data_to_npz.ipynb for data preprocessing
 * amplitudes of recordings in “recordings” are normalized, and new records are saved in a folder named “normalized_recordings”
